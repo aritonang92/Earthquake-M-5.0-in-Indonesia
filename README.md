@@ -1,4 +1,4 @@
-# Plot 60 latest earthquake above M 5.0 event in Indonesia
+# Plot the latest 60 earthquake event above M 5.0 in Indonesia
 This repository tells about where earthquakes occur in Indonesia. I use R with some libraries ('tidyverse', 'raster', 'stringr' and so on). The roadmap of these are : 
 
 1. Extracted data from BMKG official portal, it was XML file. I converted this to .xlsx file and upload it to RStudio project
